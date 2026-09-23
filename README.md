@@ -42,11 +42,11 @@ AWS and DevOps professional with a background in **Information Technology and Bu
 
 ### Infrastructure as Code
 
-`Terraform (Basic)` `AWS CloudFormation (Basic)`
+`Terraform` `AWS CloudFormation `
 
 ### Programming & Scripting
 
-`Python (Basic)` `Bash (Basic)`
+`Python ` `Bash `
 
 ### Networking
 
