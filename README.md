@@ -230,14 +230,6 @@ https://github.com/Nehaa3004/linux-server-monitoring
 
 ---
 
-# GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehaa3004\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehaa3004\&layout=compact\&theme=default)
-
----
-
 # Connect With Me
 
 📧 **Email:** [nehapawar3004@gmail.com](mailto:nehapawar3004@gmail.com)
